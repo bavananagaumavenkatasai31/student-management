@@ -2,3 +2,6 @@
 Git diff practice 
 "Staging practice" 
 "Reset practice" 
+"Stash practice" 
+"Second stash practice" 
+"Branch practice" 
