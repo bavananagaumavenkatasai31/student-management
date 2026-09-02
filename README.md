@@ -5,3 +5,4 @@ Git diff practice
 "Stash practice" 
 "Second stash practice" 
 "Branch practice" 
+"This line is from MAIN" 
